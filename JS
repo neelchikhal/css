@@ -1,1 +1,23 @@
+do=while Loop
+=============
+do
+{
+statements;
+
+}
+while(<condition>);
+
+FOR
+===
+
+for(var ctr=0;ct<6;ctr++)
+{
+
+statements;
+}
+
+----------------------------------------------------------
+
+MATH
+====
 
