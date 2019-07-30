@@ -18,6 +18,8 @@ statements;
 
 ----------------------------------------------------------
 
-MATH
-====
+Functions
+=========
+
+https://ind01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fe.udemymail.com%2Fwf%2Fclick%3Fupn%3D8DMt9H-2Bcjn-2FdYA7Frx2Q-2FjPw4DL-2BkhGQXqCE9GCnd9bHtJFqDg0Dpoj-2FUUCwtbIt0Ty-2BGGmtsi135807LyYgFsnRZ8Ukg9dcbMSnM89FG0JY-2FLgDW9sOAhOk9Ab-2BzUyHGymSqueHWfb1PNb4pYb-2FKQ-3D-3D_C2aB9HHWYsSZeuOenLtkBgV8sgx76Rbvc5-2FPhZy6Ivy7vCxMqkJaAoJyVJPACYQ8Rn62UJkFS-2Bp8AiCUnI-2BrjHI6N01hTMzSCh2JHarEa2JDTyJhgk4Utr6ftMzHVv-2FYws0r3AcyamtRIflS0-2Bd5dcQBaeKwcGFuQA9v2752jUo45opEaaXZKd6CSEedV4x14aXKfu-2BAhPpWwT7M3RrPvDfw7jjxy0CtECzDnKdEEgarq2yx2DgteYxXPVMI0vjNI1N3lwtfa0C5Xh8CNNI2pzHG8rAg5vV83hbEpPGIoGtmezP9Dgt35usWBHN5miP4tNsFl9l8wJE1ns7YUYTrEg-3D-3D&data=02%7C01%7Cnc00501594%40techmahindra.com%7C626f4445afc44602eab708d714f20ddf%7Cedf442f5b9944c86a131b42b03a16c95%7C0%7C0%7C637000902155785142&sdata=1EA8BC2m%2BjOmfa6PQp1Dfjw%2BgxPLn2Et4Mfuvzc9h84%3D&reserved=0
 
